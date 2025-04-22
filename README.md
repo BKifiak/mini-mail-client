@@ -12,18 +12,19 @@ If you don't have Node installed, download it from [https://nodejs.org/](https:/
 
 ---
 
+
 ### 2️⃣ Install Dependencies
 
 From the project root directory, run:
 
-````bash
 npm install
+
 
 ---
 
 ### 3️⃣ Start the Development Server
 From the project root directory, run:
-```bash
+
 npm run dev
 
 The app will be available at http://localhost:3000 by default.
@@ -48,9 +49,11 @@ The app will be available at http://localhost:3000 by default.
 ### 📝 Scripts
 
 Command	Description
-```bash npm run dev	Start local development server
-```bash npm run build	Create a production build
-```bash npm run preview	Preview production build locally
+```bash 
+npm run dev	Start local development server
+npm run build	Create a production build
+npm run preview	Preview production build locally
+npm run test Start unit tests
 
 
 
